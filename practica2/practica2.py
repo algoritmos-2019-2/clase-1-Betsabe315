@@ -69,6 +69,7 @@ def MCM(x, y):
 numero1 = int(input("Ingresar el primer numero: "))
 numero2 = int(input("Ingresar el segundo numero: "))
 
+print("El minimo comun multiplo de ", numero1," y ", numero2," es ", MCM(numero1, numero2))
 
 
 print("Maximo comun divisor de dos enteros")
